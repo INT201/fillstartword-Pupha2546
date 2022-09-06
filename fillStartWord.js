@@ -1,6 +1,6 @@
 const { template } = require('@babel/core')
 
 function fillStartWord(startWord, word) {
-  //code here
+  console.log("Hello")
 }
 module.exports = fillStartWord
